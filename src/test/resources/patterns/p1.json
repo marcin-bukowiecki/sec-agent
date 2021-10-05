@@ -1,0 +1,8 @@
+{
+  "customPatternList": [
+    {
+      "patternName": "CVV",
+      "pattern": "^[0-9]{3,4}$"
+    }
+  ]
+}
