@@ -10,3 +10,5 @@ Properties:
 
 - `sec.base.package` - base package of classes to be transformed by agent
 - `sec.base.notify.dir` - output folder of used sensitive data
+
+Sandbox provides single `HTTP GET /` endpoint at 8080 port.
